@@ -8,7 +8,8 @@ import {
   ZapparCamera,
   ZapparCanvas,
   Loader,
-  Pipeline
+  Pipeline,
+  Types
 } from '@zappar/zappar-react-three-fiber';
 import helmetSrc from './assets/z_helmet.glb';
 
@@ -25,7 +26,7 @@ function Model() {
 }
 
 function App() {
-  const faceTrackerGroup = useRef();
+  const faceTrackerGroup = useRef<Types.FaceAnchorGroup>();
   const pipeline = new Pipeline();
   return (
     <ZapparCanvas>
