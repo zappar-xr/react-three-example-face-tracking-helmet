@@ -15,7 +15,7 @@ import helmetSrc from './assets/z_helmet.glb';
 
 function Model() {
   const [gltf, set] = useState<GLTF>();
-  useMemo(() => new GLTFLoader().load(helmetSrc, set), [helmetSrc]);
+  useMemo(() => new GLTFLoader().load(helmetSrc, set), []);
 
   if (gltf) {
     const { scene } = gltf;
