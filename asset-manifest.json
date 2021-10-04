@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "./static/css/main.16285d4f.chunk.css",
-    "main.js": "./static/js/main.4eb9218c.chunk.js",
-    "main.js.map": "./static/js/main.4eb9218c.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.ef644e9b.js",
-    "runtime-main.js.map": "./static/js/runtime-main.ef644e9b.js.map",
-    "static/js/2.a0676f4d.chunk.js": "./static/js/2.a0676f4d.chunk.js",
-    "static/js/2.a0676f4d.chunk.js.map": "./static/js/2.a0676f4d.chunk.js.map",
-    "static/js/3.7bc2a934.chunk.js": "./static/js/3.7bc2a934.chunk.js",
-    "static/js/3.7bc2a934.chunk.js.map": "./static/js/3.7bc2a934.chunk.js.map",
+    "main.js": "./static/js/main.a961d62c.chunk.js",
+    "main.js.map": "./static/js/main.a961d62c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e20ec3b7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e20ec3b7.js.map",
+    "static/js/2.ab73cc72.chunk.js": "./static/js/2.ab73cc72.chunk.js",
+    "static/js/2.ab73cc72.chunk.js.map": "./static/js/2.ab73cc72.chunk.js.map",
+    "static/js/3.9d3646d7.chunk.js": "./static/js/3.9d3646d7.chunk.js",
+    "static/js/3.9d3646d7.chunk.js.map": "./static/js/3.9d3646d7.chunk.js.map",
     "face_tracking_model.zbin": "./482727c0e7dd40d73f5aae47f238ad61.zbin",
     "face_mesh_face_model.zbin": "./b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
     "face_mesh_full_head_simplified_model.zbin": "./f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "./index.html",
     "static/css/main.16285d4f.chunk.css.map": "./static/css/main.16285d4f.chunk.css.map",
-    "static/js/2.a0676f4d.chunk.js.LICENSE.txt": "./static/js/2.a0676f4d.chunk.js.LICENSE.txt",
-    "static/js/worker.ad165ae6.worker.js": "./static/js/worker.ad165ae6.worker.js",
-    "static/js/worker.ad165ae6.worker.js.map": "./static/js/worker.ad165ae6.worker.js.map",
+    "static/js/2.ab73cc72.chunk.js.LICENSE.txt": "./static/js/2.ab73cc72.chunk.js.LICENSE.txt",
+    "static/js/worker.d91372fa.worker.js": "./static/js/worker.d91372fa.worker.js",
+    "static/js/worker.d91372fa.worker.js.map": "./static/js/worker.d91372fa.worker.js.map",
     "static/js/zcv.wasm": "./static/js/zcv.wasm",
     "static/media/z_helmet.c48a3d10.glb": "./static/media/z_helmet.c48a3d10.glb"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef644e9b.js",
-    "static/js/2.a0676f4d.chunk.js",
+    "static/js/runtime-main.e20ec3b7.js",
+    "static/js/2.ab73cc72.chunk.js",
     "static/css/main.16285d4f.chunk.css",
-    "static/js/main.4eb9218c.chunk.js"
+    "static/js/main.a961d62c.chunk.js"
   ]
 }
